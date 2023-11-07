@@ -1,0 +1,36 @@
+
+NPM
+https://expressjs.com/
+
+Challenge Integrador - Tutoriales: https://www.youtube.com/playlist?list=PLfiFSbj15P0tHOxqs1cICi5dacXrtetTg
+Herramientas: https://www.youtube.com/playlist?list=PLfiFSbj15P0uRaGjv9YCVpA-ANYtefL9i
+
+GITHUB: https://www.youtube.com/playlist?list=PLfiFSbj15P0uVkN85eeyrIWtWlKvv2JSh
+
+GIT: https://www.youtube.com/playlist?list=PLfiFSbj15P0sgW8-Sy7zD77BdS-yi4mOU
+
+CSS: https://www.youtube.com/playlist?list=PLfiFSbj15P0sXvulEx-WIdo7hlr_LjR-h
+
+DISEÑO: https://www.youtube.com/playlist?list=PLfiFSbj15P0t_EL3K
+Talia Rodrigues18:40
+https://forms.gle/73N3ZfiXEL7UwfRF9
+Jorman Ramirez18:40
+Prof la invitación sale expirada
+Ahh ok ok, pura vida
+Talia Rodrigues18:43
+https://forms.gle/73N3ZfiXEL7UwfRF9
+
+const express = require('express');
+
+const app = express();
+
+LINCK DE PERMISOS
+https://www.cdmon.com/es/blog/la-ejecucion-de-scripts-esta-deshabilitada-en-este-sistema-te-contamos-como-actuar
+npm install -D nodemon
+
+https://ejs.co/
+
+clases
+https://youtube.com/playlist?list=PL8rS0rcC-ld-KxhA4DTXnj12nwIbrlAqR&si=oXPFT_id5wOJPSlj
+linck pablo
+https://www.youtube.com/playlist?list=PLfiFSbj15P0uYM5bC4LTIJMD8rgyHqoou
